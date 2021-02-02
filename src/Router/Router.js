@@ -43,7 +43,7 @@ export default function App() {
           <Route exact path="/">
             <UseState />
           </Route>
-          <Route path="*">
+          <Route path="/*">
             <NoMatch />
           </Route>
         </Switch>

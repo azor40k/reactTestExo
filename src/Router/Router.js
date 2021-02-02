@@ -34,13 +34,13 @@ export default function App() {
           </ul>
         </nav>
         <Switch>
-          <Route path="/header">
+          <Route exact path="/header">
             <HeaderExo />
           </Route>
-          <Route path="/table">
+          <Route exact path="/table">
             <TableExo />
           </Route>
-          <Route path="/">
+          <Route exact path="/">
             <UseState />
           </Route>
           <Route path="*">

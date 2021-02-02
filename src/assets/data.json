@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "name": "Delta",
+            "job": "Prof",
+            "email": "charlie@delta.com"
+        },
+        {
+            "name": "Ipsum",
+            "job": "DevOps",
+            "email": "ipsum@free.fr"
+        },
+        {
+            "name": "Yanis",
+            "job": "Dev",
+            "email": "rest@gmail.com"
+        },
+        {
+            "name": "Lorem",
+            "job": "Designer",
+            "email": "lorem@orange.fr"
+        }
+    ]
+}
